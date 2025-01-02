@@ -32,6 +32,6 @@ I am passionate about technology and problem-solving.
 </dl>
 
 <br> 
-[Introduction](intro.md)
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
+[Introduction](intro.md)
