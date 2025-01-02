@@ -1,12 +1,9 @@
-# daa.github.io
+# Design and Analysis of Algorithms
 ## Portfolio
 
 ### Hello, I'm K Sindhu 👋
 
-I am passionate about technology and problem-solving. Here's a glimpse of my work:
-
-## 🛠️ Course Project
-- **Project**: 
+I am passionate about technology and problem-solving.
 
 ## 🚀 Skills
 - C++, Python, JavaScript
