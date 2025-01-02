@@ -1,5 +1,4 @@
-#Smart City Plan
-#Portfolio
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -129,8 +128,5 @@
 
     </section>
 
-    <footer>
-        &copy; 2024 Abhishek N. All Rights Reserved.
-    </footer>
 </body>
 </html>
