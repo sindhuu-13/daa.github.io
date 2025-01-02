@@ -15,6 +15,7 @@ I am passionate about technology and problem-solving.
 - [LinkedIn](https://www.linkedin.com/in/sindhu-kesaraju-036135344)
 
 ## Portfolio Topic
+[Introduction](intro.md)
 
 <dl>
 <dt>Course Name</dt>
@@ -34,4 +35,3 @@ I am passionate about technology and problem-solving.
 <br> 
 > “The only way to do great work is to love what you do.” – Steve Jobs
 >
-[Introduction](intro.md)
